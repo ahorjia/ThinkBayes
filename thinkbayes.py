@@ -19,6 +19,10 @@ Pdf: represents a continuous probability density function
 
 """
 
+"""
+    Edited by ahorjia
+"""
+
 import bisect
 import copy
 import logging
